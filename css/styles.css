@@ -93,3 +93,63 @@
 #productmanagementcontent{
     display: none;
 }
+#portfolio1hide {
+    display: none;
+    background-color: #00000066;
+    border: solid white 2pt;
+    padding-bottom: 50pt;
+    padding-top: 50pt;
+}
+#portfolio2hide {
+    display: none;
+    background-color: #00000066;
+    border: solid white 2pt;
+    padding-bottom: 50pt;
+    padding-top: 50pt;
+}
+#portfolio3hide {
+    display: none;
+    background-color: #00000066;
+    border: solid white 2pt;
+    padding-bottom: 50pt;
+    padding-top: 50pt;
+}
+#portfolio4hide {
+    display: none;
+    background-color: #00000066;
+    border: solid white 2pt;
+    padding-bottom: 50pt;
+    padding-top: 50pt;
+}
+#portfolio5hide {
+    display: none;
+    background-color: #00000066;
+    border: solid white 2pt;
+    padding-bottom: 50pt;
+    padding-top: 50pt;
+}
+#portfolio6hide {
+    display: none;
+    background-color: #00000066;
+    border: solid white 2pt;
+    padding-bottom: 50pt;
+    padding-top: 50pt;
+}
+#portfolio7hide {
+    display: none;
+    background-color: #00000066;
+    border: solid white 2pt;
+    padding-bottom: 50pt;
+    padding-top: 50pt;
+}
+#portfolio8hide {
+    display: none;
+    background-color: #00000066;
+    border: solid white 2pt;
+    padding-bottom: 50pt;
+    padding-top: 50pt;
+}
+#btn {
+    border-radius: 12px;
+    width: 120px;
+}
