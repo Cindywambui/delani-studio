@@ -44,3 +44,18 @@
 .col-lg-3 {
     padding-bottom:5%;
 }
+#contact {
+    background-image: url(../images/background2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+ #contactus{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+ }   
+::placeholder {
+    color: white;
+}
