@@ -84,3 +84,12 @@
     padding-top: 100px;
     padding-bottom: 30px;
 }
+#designcontent {
+    display: none;
+}
+#developmentcontent {
+    display: none;
+}
+#productmanagementcontent{
+    display: none;
+}
