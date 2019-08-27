@@ -5,3 +5,21 @@
     color: white;
     text-align: center;
 }
+#logo {
+    padding-top: 17.5%;
+}
+#welcome {
+    padding-top: 2.5%;
+    font-size: 45px;
+}
+#message {
+    padding-top: 1.5%;
+    font-size:45px;
+}
+#content {
+    font-size: 13px;
+ }
+#mouse{
+    padding-top: 12%;
+    padding-bottom:3%; 
+}
