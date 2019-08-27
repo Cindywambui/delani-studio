@@ -58,4 +58,25 @@
  }   
 ::placeholder {
     color: white;
+}.name{
+    color:white;
+    background-color: transparent;
+    width: 500px;
+    height: 4%;
+    padding: 20px;
+    border-width: 1px;
+}
+.email {
+    color: white;
+    background-color: transparent;
+    width: 500px;
+    height: 4%;
+    padding: 20px;
+    border-width: 1px;
+}
+#message {
+    color:white;
+    background-color: transparent;
+    font-size: 18px;
+    padding: 20px;
 }
