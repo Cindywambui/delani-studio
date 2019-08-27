@@ -28,3 +28,11 @@
     text-align: center;
     padding: 4%;
 }
+#services {
+    background-image: url(../images/background3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+    padding: 8%;
+    text-align: center;
+}
