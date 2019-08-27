@@ -22,7 +22,7 @@ GitHub profile [Cindy wambui]
 
 Primary email address:montanacindy5@gmail.com
 
-live link:
+live link: https://cindywambui.github.io/delani-studio/
 ### License
 MIT Lisence
 
